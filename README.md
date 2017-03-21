@@ -5,5 +5,5 @@
 
 ## 目录
 
-#### [一、背景](https://github.com/chrisxiong/my-notebook/blob/master/Google-Cpp-Style-Guide/background.md)
+#### [一、背景](https://github.com/chrisxiong/Google-Cpp-Style-Guide/blob/master/contents/background.md)
 #### [二、头文件](http://www.123.com)
